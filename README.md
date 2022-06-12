@@ -1,6 +1,6 @@
 # My-app
 
-## My first react app basic User Form website
+My first react app basic User Form website
 
 # Getting Started with Create React App
 
